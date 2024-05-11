@@ -19,3 +19,10 @@ Back-end:
 
 3. Use any server-side technology (Node.js, Python with Django/Flask, Ruby on Rails, etc.) to implement the back-end functionalities.
 
+# outputs
+
+
+
+![output1](https://github.com/rohith2341/Pedalstart/assets/95401519/a020791e-bbd5-4b0f-b701-c1ab6d66f4df)
+![output2](https://github.com/rohith2341/Pedalstart/assets/95401519/f3630726-631a-4004-8ca3-d903ccdd4e5a)
+![output3](https://github.com/rohith2341/Pedalstart/assets/95401519/d6051037-fcd2-4eb5-802b-1a91ca09c027)
